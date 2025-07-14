@@ -23,7 +23,7 @@ You have two options to run this project:
 
 ---
 
-### 🔧 Option 1: Run Locally (Without Docker)
+### 🔧 Option 1: Run Locally 
 
 1. **Clone the repo:**
    ```bash
