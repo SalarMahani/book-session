@@ -28,7 +28,7 @@ You have two options to run this project:
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/SalarMahani/book-session.git
-   cd worldwise
+   cd book-session
    
 2. Install dependencies:
    ```bash
