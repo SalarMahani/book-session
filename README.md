@@ -1,7 +1,7 @@
 # 📘 Book Sessions
 
 **Book Sessions** is a very simple React + TypeScript application for booking and managing sessions.
-created by [maximilian-schwarzmueller.](https://github.com/mschwarzmueller),This version has been modified, Dockerized,Specialized, and deployed by me.
+created by [maximilian-schwarzmueller.](https://github.com/mschwarzmueller),This version has been modified, Dockerized and Specialized by me.
 this project demonstrates fundamental concepts like props, state, forms, and TypeScript types in a real-world UI.
 
 Live Demo: 👉 [https://book-sessions.vercel.app](https://book-sessions.vercel.app)
