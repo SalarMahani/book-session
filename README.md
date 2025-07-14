@@ -43,6 +43,6 @@ You have two options to run this project:
 
 ### 🔧 Option 2: Run With Docker
 
-1. Download Image & run the container:
+1. Download Image & run a container:
    ```bash
    docker run -p 5173:5173 -p 9000:9000 albosseeker/book-session
