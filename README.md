@@ -4,7 +4,7 @@
 This version has been modified, Dockerized and Specialized by me.
 this project demonstrates fundamental concepts like props, state, forms, and TypeScript types in a real-world UI.
 
-Live Demo: 👉 https://book-sessions.vercel.app
+Live Demo: 👉 https://book-session.vercel.app
 
 <br>
 
